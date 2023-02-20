@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RandolfTjandra
-- 👀 I’m interested in budgeting
+- 👀 I’m interested in tui, web applications
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 555-5555-5555
+- 📫 How to reach me ...
 
 <!---
 RandolfTjandra/RandolfTjandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
